@@ -3,7 +3,7 @@
 
 // in case you want to #include "whereami++.cpp" in a larger compilation unit
 #if !defined(WHEREAMIPP_H)
-#include <whereami++.h>
+#include "whereami++.h"
 #endif
 
 namespace whereami {

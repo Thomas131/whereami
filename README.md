@@ -1,3 +1,6 @@
+# About the Fork
+This is a fork of whereami which has the purpose to just simplify everything, remove unnececary files, make header-only-usage possible, ... . At the moment, the fork is only used by me and isn't commented enough to be used somewhere else ... but it isn't difficult to build, a default ```g++ -Wall file.cpp -I/path/to/src/``` should be enough. The compiling-process stated below is unnececary complicated in my opinion. I don't know why the library generates that much warnings ...
+
 # Where Am I?
 
 A drop-in two files library to locate the current executable and the current
